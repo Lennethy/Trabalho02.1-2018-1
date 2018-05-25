@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Salarios</string>
-    <string name="Cargos">Selecionar Cargos</string>
+    <string name="cargos">Selecionar Cargos</string>
+    <string name="extras">Horas Extras</string>
+    <string name="filhos">Número de filhos</string>
+    <string name="faltas">Número de faltas</string>
+    <string-array name="select">
+        <item>Gerente</item>
+        <item>Supervisor</item>
+        <item>Servente</item>
+    </string-array>
 </resources>
